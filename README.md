@@ -1,2 +1,5 @@
-# LuoYZ-wao.github.io
-<h1>欢迎你来到我的主页</h1>
+# LuoYZ 的个人主页
+
+此仓库用于托管我的个人学术主页，用于 OpenReview 身份验证。
+
+访问主页请直接查看 [https://LuoYZ-wao.github.io](https://LuoYZ-wao.github.io)
